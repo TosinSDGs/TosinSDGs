@@ -55,7 +55,7 @@
 
 ## Projects
 ### Predicting Non-Performing Loans for a Development Finance Institution Using Ensemble Model 
-[Code](https://github.com/TosinSDGs/TosinSDGs/blob/main/Analysis_of_Online_Review.ipynb)
+[Code](https://github.com/TosinSDGs/TosinSDGs/blob/main/NPL_Modeling.ipynb)
 
 Developed and implemented a supervised machine learning model to determine non-performing loans for debt clients using various classifiers, including Histgradient Boost, LigthGBM, CatBoost, XGBoost, and an ensemble model combining all four.
 
