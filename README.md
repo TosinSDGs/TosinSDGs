@@ -68,17 +68,17 @@ The project aims to explore the effectiveness of different classifiers, such as 
 ### Cancer Diagnosis Classification Project
 [Code](https://github.com/TosinSDGs/TosinSDGs/blob/main/Cancer_Diagnosis_Project.ipynb)
 
-Develop a robust cancer classification model leveraging logistic regression, decision tree, and random forest algorithms to accurately differentiate between malignant and benign tumors. This model aims to provide healthcare professionals with a reliable tool for early cancer detection and treatment recommendation, ultimately improving patient outcomes and reducing mortality rates.
+Developed a robust cancer classification model leveraging logistic regression, decision tree, and random forest algorithms to accurately differentiate between malignant and benign tumors. This model aims to provide healthcare professionals with a reliable tool for early cancer detection and treatment recommendation, ultimately improving patient outcomes and reducing mortality rates.
 
 ### Resume Screening and Classification for HR
 [Code](https://github.com/TosinSDGs/TosinSDGs/blob/main/Resume_Classification_Project.ipynb)
 
-Develop an NLP-based resume screening and classification system for our HR department, incorporating sentiment analysis, TF-IDF feature extraction, and a Random Forest classifier. This project aims to streamline our hiring process, enabling us to automatically categorize and assess job applicants' resumes efficiently. By harnessing natural language understanding and machine learning, we intend to identify the most suitable candidates while ensuring a positive candidate experience.
+Developed an NLP-based resume screening and classification system for our HR department, incorporating sentiment analysis, TF-IDF feature extraction, and a Random Forest classifier. This project aims to streamline our hiring process, enabling us to automatically categorize and assess job applicants' resumes efficiently. By harnessing natural language understanding and machine learning, we intend to identify the most suitable candidates while ensuring a positive candidate experience.
 
 ### Web Scraping and Analysis of Online Reviews
 [Code](https://github.com/TosinSDGs/TosinSDGs/blob/main/Analysis_of_Online_Review.ipynb)
 
-Create an NLP-driven analysis system for online product reviews, incorporating sentiment analysis, word cloud visualization, and TF-IDF techniques. This project aims to gain actionable insights from customer feedback, helping us better understand product satisfaction, identify areas for improvement, and enhance the overall shopping experience. By leveraging natural language processing and data-driven approaches, we intend to make data-informed decisions that boost customer satisfaction and drive business growth.
+Created an NLP-driven analysis system for online product reviews, incorporating sentiment analysis, word cloud visualization, and TF-IDF techniques. This project aims to gain actionable insights from customer feedback, helping us better understand product satisfaction, identify areas for improvement, and enhance the overall shopping experience. By leveraging natural language processing and data-driven approaches, we intend to make data-informed decisions that boost customer satisfaction and drive business growth.
 
 <!---
 TosinSDGs/TosinSDGs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
