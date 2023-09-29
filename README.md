@@ -48,7 +48,7 @@
 [LinkedIn](https://www.linkedin.com/in/tosingbadegesin/)
 
 ## Education
-- Ph.D., Economics | Howard University, Washington DC, USA (2025)								       		
+- Ph.D., Economics | Howard University, Washington DC, USA (2024)								       		
 - M.S., Economic Development	| University of Ibadan, Nigeria (2018)	 			        		
 - B.S., Microbiology | Obafemi Awolowo University, Ile-Ife, Nigeria (2013)
 
